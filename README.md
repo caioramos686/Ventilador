@@ -1,2 +1,2 @@
 # Ventilador
-POO - Ligar e desligar ventilador
+Utilizando POO para controlar o ventilador, ligando e desligando o aparelho.
